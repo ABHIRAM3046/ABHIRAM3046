@@ -1,8 +1,10 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
+I am  an AWS Cloud Engineer and certified in AWS,Nutanix,Github.
+🌱 I’m currently learning: Advanced AWS services, Nutanix cloud infrastructure, and secure cloud architectures,DEVOPS👨‍💻.
+💬 Ask me about AWS,Cloud,Nutanix
+⚡ Fun fact I don't Java but using Java in research project
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhiram-varma-jampana-6131ab267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhiramjampana@gmail.com) 
